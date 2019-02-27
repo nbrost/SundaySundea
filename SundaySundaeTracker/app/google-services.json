@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "837265640903",
+    "firebase_url": "https://sundaysundaetracker.firebaseio.com",
+    "project_id": "sundaysundaetracker",
+    "storage_bucket": "sundaysundaetracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837265640903:android:45253441ffd3c58a",
+        "android_client_info": {
+          "package_name": "com.example.sundaysundaetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837265640903-9khkblu3tebctaebaejpgm9s6gnl1gdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sundaysundaetracker",
+            "certificate_hash": "c20caa2e6107cc6852291c4806df75d8ae2daf3a"
+          }
+        },
+        {
+          "client_id": "837265640903-29bbks056k99rr97l5dggcmhs4fi1urq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1nab6hVOvBYnSinHYTNKeEkZDPXcIzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837265640903-29bbks056k99rr97l5dggcmhs4fi1urq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
