@@ -3,6 +3,7 @@ package com.example.sundaysundaetracker;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.firebase.ui.auth.data.model.User;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
@@ -22,6 +23,10 @@ public class MainActivity extends AppCompatActivity {
         //Check if user is signed in (non-null) and update UI accordingly
         FirebaseUser currentUser = mAuth.getCurrentUser();
         updateUI(currentUser);
+    }
+
+    public void updateUI(FirebaseUser currentUser){
+
     }
     
 }
